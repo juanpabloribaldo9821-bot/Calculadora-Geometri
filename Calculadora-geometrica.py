@@ -21,7 +21,6 @@ while opcion != 11:
     else:
         print("Error: Por favor ingresa un número entero del 1 al 11.")
         opcion = 0  
-        continue
 
     if opcion == 1:
         lado_in = input("Ingresa el lado: ")
